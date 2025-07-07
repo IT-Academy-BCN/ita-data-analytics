@@ -1,15 +1,16 @@
-# Guía para la Especialidad de Data Analytics – IT Academy
+# Guia per a l'Especialitat de Data Analytics – IT Academy
 
-Bienvenidos al repositorio oficial de buenas prácticas y recursos para la especialidad de **Data Analytics** de IT Academy. Aquí encontrarás documentos que te ayudarán a mejorar tus habilidades técnicas, a trabajar de forma más profesional y a minimizar los errores de las entregas.
+Benvinguts al repositori oficial de bones pràctiques i recursos per a l'especialitat de **Data Analytics** d'IT Academy. Aquí hi trobaràs documents que t'ajudaran a millorar les teves habilitats tècniques, a treballar de manera més professional i a minimitzar els errors en les entregues.
 
-## Índice
 
-1. [Buenas prácticas en SQL](buenas_practicas_sql.md)
-2. [Buenas prácticas en Python](buenas_practicas_python.md)
-3. [Buenas prácticas de visualización de datos](buenas_practicas_visualizaciones.md)
-4. [Buenas prácticas en dinámicas P2P (peer-to-peer)](buenas_practicas_p2p.md)
+## Índex
+
+1. [Bones pràctiques en SQL](bonas_practiques_sql.md)
+2. [Bones pràctiques en Python](bonas_practiques_python.md)
+3. [Bones pràctiques en visualització de dades](bonas_practiques_visualizaciones.md)
+4. [Bones pràctiques en dinàmiques P2P (peer-to-peer)](bonas_practiques_p2p.md)
 
 ---
 
-### En construcción
-Este repositorio está en desarrollo constante. Si detectas errores o tienes sugerencias, ¡no dudes en comentar con algún mentor!
+### En construcció
+Aquest repositori està en desenvolupament constant. Si detectes errors o tens suggeriments, no dubtis a comentar-ho amb algun mentor!
