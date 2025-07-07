@@ -55,13 +55,13 @@ Para cada consulta entregada:
 Entrega tu archivo .sql de forma que, si se ejecuta en otro ordenador, reproduzca el mismo entorno:
 
 - Crea la base de datos.
-- Usa DROP IF EXISTS para evitar errores si ya existe.
+- Usa ``DROP IF EXISTS`` para evitar errores si ya existe.
 - Incluye la creación de tablas.
-- Incluye los INSERT INTO, cargas desde archivos o al menos un comentario con ``-- `` que en ese punto se debe ejecutar un .sql.
+- Incluye los ``INSERT INTO``, cargas desde archivos o al menos un comentario con ``-- `` que en ese punto se debe ejecutar un .sql.
 
 ### Recomendaciones adicionales
 
-- Nunca uses SET FOREIGN_KEY_CHECKS = 0. Esto desactiva la integridad referencial y puede ocultar errores graves.
+- Nunca uses ``SET FOREIGN_KEY_CHECKS = 0``. Esto desactiva la integridad referencial y puede ocultar errores graves.
 - No utilices ``SAFE_UPDATES = 0`` para saltarte restricciones de seguridad. Asegúrate de incluir ``WHERE`` y/o ``LIMIT`` en ``DELETE`` o ``UPDATE``.
 - Evita ``IN`` o ``LIKE`` si puedes usar ``=``, ``EXIST`` o ``JOIN``. ``IN`` puede ser más costoso o ambiguo en ciertos casos.
 
