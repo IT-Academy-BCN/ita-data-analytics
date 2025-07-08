@@ -1,7 +1,7 @@
-# GUIA PEER TO PEER
+# Guia Peer to Peer
 
 
-✔️ **Revisió general del lliurament (aspectes formals i de fons)**
+## ✔️ Revisió general del lliurament (aspectes formals i de fons)
 
 ☐ El llenguatge utilitzat (català/castellà/anglès) és coherent i adequat a tot el lliurament
 
@@ -17,7 +17,7 @@
 
 
 
-🔍 **Dinàmica de revisió (peer to peer i autoavaluació)**
+## 🔍 Dinàmica de revisió (peer to peer i autoavaluació)
 
 ☐ La persona revisora ha llegit i entès bé el contingut abans de fer comentaris
 
@@ -33,11 +33,11 @@
 
 
 
-🛠️ **Revisió de consultes SQL**
+## 🛠️ Revisió de consultes SQL
 
-☐ Ús adequat d’àlies clars i descriptius (AS) tant en columnes com en taules
+☐ Ús adequat d’àlies clars i descriptius (``AS``) tant en columnes com en taules
 
-☐ El codi està estructurat amb salts de línia per separar SELECT, FROM, WHERE, GROUP BY...
+☐ El codi està estructurat amb salts de línia per separar ``SELECT``, ``FROM``, ``WHERE``, ``GROUP BY``...
 
 ☐ Les consultes són clares i eficients, sense duplicacions ni complexitat innecessària
 
@@ -48,7 +48,7 @@
 
 
 
-📊 **Revisió de Power BI / Visualització de dades**
+## 📊 Revisió de Power BI / Visualització de dades
 
 ☐ Coherència d’estils, colors i disseny entre pàgines i visuals
 
@@ -56,13 +56,13 @@
 
 ☐ Eixos, llegendes i títols clarament identificats i correctament configurats
 
-☐ Les mesures (Measures) estan correctament definides i agrupades en taules amb noms clars
+☐ Les mesures (``Measures``) estan correctament definides i agrupades en taules amb noms clars
 
 ☐ Disposició ordenada i coherent dels visuals a la pàgina (flux de lectura clar)
 
 
 
-🐍 **Revisió de codi Python**
+## 🐍 Revisió de codi Python
 
 ☐ El codi està estructurat en funcions reutilitzables i clares
 
@@ -70,7 +70,7 @@
 
 ☐ Noms de variables i funcions clars, coherents i descriptius
 
-☐ Es fa alguna gestió d’errors o comprovació de tipus si és necessari (try/except, asserts, etc.)
+☐ Es fa alguna gestió d’errors o comprovació de tipus si és necessari (``try/except``, ``asserts``, etc.)
 
 ☐ El codi és completament funcional i es pot reproduir el resultat sense errors
 
