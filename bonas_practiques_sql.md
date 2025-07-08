@@ -46,7 +46,7 @@ Per a cada consulta lliurada:
 
 ### Operacions
 
-- Si estàs treballant amb diners, arrodoneix a dos decimals amb `ROUND(columna, 2)` o `FORMAT(columna, 2)`.
+- Si estàs treballant amb diners, arrodoneix a dos decimals amb `ROUND(columna, 2)`, `TRUNCATE(columna, 2)` o `FORMAT(columna, 2)`.
 - Utilitza funcions com `STR_TO_DATE`, `DATE_FORMAT`, `LEFT`, `RIGHT`, `CAST`, `CONCAT`, segons el que se’t demani per manipular o transformar les dades.
 - Controla l’ús de `CASCADE`. Només s’ha d’utilitzar si té sentit eliminar en cascada (com factures i les seves línies) i si tens control absolut de la base de dades.
 
