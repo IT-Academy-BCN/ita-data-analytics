@@ -5,10 +5,10 @@ Benvinguts al repositori oficial de bones pràctiques i recursos per a l'especia
 
 ## Índex
 
-1. [Bones pràctiques en SQL](bonas_practiques_sql.md)
-2. [Bones pràctiques en Python](bonas_practiques_python.md)
-3. [Bones pràctiques en visualització de dades](bonas_practiques_visualitzacions.md)
-4. [Bones pràctiques en dinàmiques P2P (peer-to-peer)](bonas_practiques_p2p.md)
+1. [Bones pràctiques en SQL](bones_practiques_sql.md)
+2. [Bones pràctiques en Python](bones_practiques_python.md)
+3. [Bones pràctiques en visualització de dades](bones_practiques_visualitzacions.md)
+4. [Bones pràctiques en dinàmiques P2P (peer-to-peer)](bones_practiques_p2p.md)
 
 ---
 
