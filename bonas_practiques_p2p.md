@@ -15,6 +15,8 @@
 ☐ Hi ha traçabilitat clara de les decisions preses i del procés seguit (no només el resultat final)
 
 
+
+
 🔍 **Dinàmica de revisió (peer to peer i autoavaluació)**
 
 ☐ La persona revisora ha llegit i entès bé el contingut abans de fer comentaris
@@ -28,6 +30,8 @@
 ☐ S’han tingut en compte els comentaris de la revisió per fer millores (indicant quines s’han aplicat i per què)
 
 ☐ Si hi ha discrepàncies o dubtes entre la persona que entrega i la revisora, es documenten breument
+
+
 
 
 
@@ -45,6 +49,8 @@
 
 
 
+
+
 📊 **Revisió de Power BI / Visualització de dades**
 
 ☐ Coherència d’estils, colors i disseny entre pàgines i visuals
@@ -56,6 +62,8 @@
 ☐ Les mesures (Measures) estan correctament definides i agrupades en taules amb noms clars
 
 ☐ Disposició ordenada i coherent dels visuals a la pàgina (flux de lectura clar)
+
+
 
 
 
