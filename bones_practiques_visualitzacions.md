@@ -55,15 +55,6 @@ L’objectiu és millorar la claredat i l’eficiència comunicativa de la visua
 
 **Dèficits identificats en el gràfic de l’esquerra:**
 - Els decimals i la repetició de "EUR" en les etiquetes de dades no aporten valor i dificulten la lectura. A més, el color blau de les etiquetes no facilita la percepció.
-- Els títols inclouen paraules innecessàries, com ara “anys”, “totals” i “suma”.
-- S’incorporen llegendes
-muestran exactamente la misma serie de datos, pero en el de la derecha, la comprensión
-de los datos es más rápida, eficiente y precisa.**
-
-![Ejemplo del principio de simplificación](./images/limpios.jpg)
-
-**Dèficits identificats en el gràfic de l’esquerra:**
-- Els decimals i la repetició de "EUR" en les etiquetes de dades no aporten valor i dificulten la lectura. A més, el color blau de les etiquetes no facilita la percepció.
 
 - Els títols inclouen paraules innecessàries, com ara “anys”, “totals” i “suma”.
 
