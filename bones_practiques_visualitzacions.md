@@ -104,7 +104,7 @@ El truncament dels eixos és una pràctica habitual que s’aplica quan els grà
 >
 >Els dos gràfics següents mostren exactament la mateixa sèrie de dades, però els missatges que comuniquen són molt diferents. El gràfic amb l’eix vertical truncat afavoreix una interpretació de decreixements pronunciats i un creixement remarcable que no corresponen al patró real de les dades.
 
-Figura 6. Exemple de truncament d’eixos  
+Figura 4. Exemple de truncament d’eixos  
 
 ![Exemple de truncament d’eixos](./images/4.jpg)
 
@@ -118,7 +118,7 @@ Evitar les columnes trencades (broken bars). Les columnes trencades no aporten i
 >
 >Los siguientes gráficos muestran los mismos datos, pero en el gráfico
 con columnas rotas se obtiene una imagen poco exacta de la proporción visual de la diferencia.
-Figura 7. Exemple de trencament dels eixos d’un gràfic
+Figura 5. Exemple de trencament dels eixos d’un gràfic
 
 ![Exemple de truncament d’eixos](./images/Exemple%20de%20trencament%20dels%20eixos%20d’un%20gràfic.jpg)
 
@@ -132,7 +132,7 @@ muestra únicamente las tres categorías más numerosas. La suma de estos tramos
 500, una cifra inferior a la real. Este dato no corresponde con la totalidad de asistentes,
 tal y como se muestra en el segundo gráfico.
 
-Figura 8. Exemple de categories exhaustives (No exhaustiu)
+Figura 6. Exemple de categories exhaustives (No exhaustiu)
 
 ![Exemple de truncament d’eixos](./images/Exemple%20de%20categories%20exhaustives.jpg)
 
@@ -143,7 +143,7 @@ Figura 8. Exemple de categories exhaustives (No exhaustiu)
 >
 >Les dades que tenen un ordre natural, com per exemple els dies de la setmana, s’han de presentar seguint aquesta lògica i no mitjançant un rànquing en ordre descendent.
 
-Figura 9. Exemple de presentació de categories amb un ordre lògic
+Figura 7. Exemple de presentació de categories amb un ordre lògic
 
 ![Exemple de presentació de categories amb un ordre lògic](./images/Exemple%20de%20presentació%20de%20categories%20amb%20un%20ordre%20lògic.jpg)
 
@@ -158,7 +158,7 @@ Figura 9. Exemple de presentació de categories amb un ordre lògic
 >
 >El següent gràfic mostra una quantificació de valors en funció d’aplicar un paràmetre quantitatiu a la intensitat de brillantor de cada color en la mateixa proporció que el valor. És molt més fàcil quantificar proporcions a partir de la longitud de les barres que a partir de les intensitats del color. Tanmateix, no sempre és possible respectar aquest principi. Per exemple, en mapes que inclouen molts polígons, és difícil posar una etiqueta de valor per a cadascuna de les divisions, ja que la mida de la font hauria de ser necessàriament molt petita. En aquest cas, sí que estaria justificat l’ús del color per quantificar diferències.
 
-Figura 10. Exemple de dificultat en la quantificació a partir del color
+Figura 8. Exemple de dificultat en la quantificació a partir del color
 
 ![Exemple de dificultat en la quantificació a partir del color](./images/Exemple%20de%20dificultat%20en%20la%20quantificació%20a%20partir%20del%20color.jpg)
 
@@ -180,7 +180,7 @@ La densitat de la informació mostrada ha de ser l’adequada, aprofitant l’es
 > La visualització de l’esquerra mostra un gràfic de sectors amb dues dades, que ocupa pràcticament mitja pàgina. Aquesta poca informació s’acompanya d’un altre gràfic de barres amb quatre dades addicionals que ocupen l’espai de manera molt ineficient.
 > Per contra, la visualització de la dreta mostra la informació de manera més adequada, acompanyada de textos explicatius i aportant dades útils per a la comprensió, en un espai més reduït.
 
-Figura 11. Exemple d’aprofitament de l’espai
+Figura 9. Exemple d’aprofitament de l’espai
 
 ![Exemple d’aprofitament de l’espai](./images/Exemple%20d’aprofitament%20de%20l’espai.jpg)
 
@@ -205,7 +205,7 @@ Les regles per aconseguir una estructuració adequada de la visualització són 
 >La visualització de l’esquerra presenta un dèficit de coherència jeràrquica perquè el titular del gràfic es refereix únicament a un dels dos objectes mostrats. El gràfic del nombre d’assistents no serà coherent amb el títol de tota la composició. D’altra banda, l’afirmació del titular de “nivell molt alt d’ingressos” no queda avalada per les dades, ja que no existeix cap referent de comparació que permeti determinar si els ingressos són molt alts o no ho són.
 >Per contra, en la visualització de la dreta existeix coherència amb la jerarquia del títol, no es barregen temàtiques i la informació està avalada per les dades que es mostren.
 
-Figura 12. Exemple d’estructuració jeràrquica
+Figura 10. Exemple d’estructuració jeràrquica
 
 ![Exemple d’estructuració jeràrquica](./images/Exemple%20d’estructuració%20jeràrquica.jpg)
 
@@ -227,7 +227,7 @@ apreciar que de forma natural la zona más caliente de la pantalla está situada
 cuadrante superior izquierdo de la página. Este patrón, como puede intuirse, seguiría un
 patrón de tipo F o triángulo.
 
-Figura 13. Exemple de mapa de calor d’atenció visual
+Figura 11. Exemple de mapa de calor d’atenció visual
 
 ![Exemple de mapa de calor d’atenció visual](./images/Exemple%20de%20mapa%20de%20calor%20d’atenció%20visual.jpg)
 
