@@ -74,15 +74,16 @@ L’objectiu és millorar la claredat i l’eficiència comunicativa de la visua
 
 - El fons de color gris no és necessari i dificulta la visualització de les etiquetes.
 
-## 2. Principio de percepción fidedigna
-La representació de les dades ha d’oferir una imatge fidel de la realitat, que faciliti el coneixement objectiu i complet de les dades i eviti que la persona usuària pugui obtenir interpretacions esbiaixades o parcials.
-Les regles associades a aquest principi són:
+## 2. Principi de percepció fidel
 
+La representació de les dades ha d’oferir una imatge fidel de la realitat, que faciliti el coneixement objectiu i complet de les dades i eviti que la persona usuària pugui obtenir interpretacions esbiaixades o parcials.
+
+Les regles associades a aquest principi són:
 - Representar les etiquetes de valors i eixos sempre horitzontalment. Les etiquetes verticals o inclinades dificulten molt la lectura de les dades.
 
 Figura 2. Exemple del principi de percepció fidel
 
-![Ejemplo del principio de percepción fidedigna](./images/2.jpg)
+![Exemple del principi de percepció fidel](./images/2.jpg)
 
 - Evitar trams amb composicions desiguals. Agrupar els valors numèrics en categories permet convertir dades numèriques en qualitatives, però mostrar agrupacions amb segments desiguals pot generar interpretacions allunyades de la realitat. En cas que existeixi una categoria residual amb molt poca freqüència, es pot establir un tram més ampli, sempre que l’agrupació no alteri les conclusions de l’anàlisi i s’indiqui degudament com a “resta de valors”.
 
@@ -217,35 +218,86 @@ En el patró en F, o en triangle, el recorregut inicial és igual, amb una atenc
 
 Per tot això, és especialment important aprofitar el quadrant superior esquerre de la pàgina per transmetre el missatge i captar l’atenció dels usuaris.
 
->**Estudio Eye tracking de Google:**
+>**Estudi Eye tracking de Google:**
 >
->Como ejemplo de lo que se indica en este punto, en
-la imagen adjunta se muestra un mapa de calor del tiempo de atención en cada zona
-de la página. A pesar de que esta atención depende del propio diseño de la página,
-el tamaño de la fuente y el contraste de los elementos que se muestran se puede
-apreciar que de forma natural la zona más caliente de la pantalla está situada en el
-cuadrante superior izquierdo de la página. Este patrón, como puede intuirse, seguiría un
-patrón de tipo F o triángulo.
+>Com a exemple del que s’indica en aquest punt, en la imatge adjunta es mostra un mapa de calor del temps d’atenció en cada zona de la pàgina. Tot i que aquesta atenció depèn del propi disseny de la pàgina, la mida de la font i el contrast dels elements que s’hi mostren, es pot apreciar que de manera natural la zona més calenta de la pantalla està situada al quadrant superior esquerre de la pàgina. Aquest patró, com es pot intuir, seguiria un patró de tipus F o triangle.
 
 Figura 11. Exemple de mapa de calor d’atenció visual
 
 ![Exemple de mapa de calor d’atenció visual](./images/Exemple%20de%20mapa%20de%20calor%20d’atenció%20visual.jpg)
 
+- Indexar jeràrquicament amb enllaços i marcadors els productes visuals amb diferents parts, capítols o pestanyes, de manera que el moviment i la navegabilitat entre els diferents apartats sigui fàcil.
 
-- Indexar jerárquicamente con enlaces y marcadores los productos visuales con
-diferentes partes, capítulos o pestañas, de modo que el movimiento y la navegabilidad
-entre los distintos apartados sea fácil.
+- Evitar la superposició de conceptes i mètriques en una mateixa visualització (overlapping), de manera que s’eviti que alguns elements quedin tapats per altres.
 
-- Evitar la superposición de conceptos y métricas en una misma visualización (overlapping),
-de forma que se evite que algunos elementos queden tapados por otros.
+- Indicar la font de les dades, l’actualització i, si escau, la metodologia d’elaboració de les dades al peu de pàgina.
 
-- Indicar la fuente de datos, la actualización y, en su caso, la metodología de elaboración de
-los datos en el pie de página.
+## 5. Principis d’objectivitat i compliment ètic i normatiu ##
 
+Estos principios apuestan por unas visualizaciones de datos elaboradas con fidelidad a la realidad, buena fe del mensaje a transmitir, así como una verificación del cumplimiento normativo en los distintos ámbitos que puedan afectar a la visualización de datos.
 
+> **Les regles principals són:**
+>
+>- Cal explicar la realitat del fenomen d’estudi de manera completa, tant si l’evolució és positiva com si és negativa.
+>- És necessari incorporar escenaris de comparació que permetin analitzar la realitat i avaluar les dades. Per exemple, objectius que s’han d’assolir, períodes anteriors, altres organitzacions, territoris, etc.
+>- Mostrar desviacions respecte a objectius i/o períodes anteriors, tant en situacions d’evolució positiva i de compliment d’objectius, com també en els casos en què l’evolució ha estat negativa i s’han generat desviacions no favorables.
+>- Revisar el compliment normatiu, com ara requisits legals, normativa interna o compromisos que poden afectar la visualització. El compliment normatiu pot afectar la confidencialitat, la protecció de dades personals, els drets d’autor i llicències, les imatges i els materials utilitzats o obligacions d’accessibilitat, entre altres.
 
+## 6. Principi d’uniformitat ##
 
+Els usuaris estan habituats a formats de visualització de dades que reconeixen ràpidament. Quan aquests formats no són els habituals, la comprensió és més lenta i es requereix un major esforç visual.
 
+Per garantir que la comprensió sigui ràpida, els formats i anotacions han de ser uniformes.
 
+El principi d’uniformitat proposa mantenir en el disseny de les visualitzacions una presentació uniforme generalment acceptada pels destinataris.
+
+Aquesta regla no només s’aplica per donar coherència interna a un producte de visualització, sinó que és important que la uniformitat es mantingui en el temps i en la totalitat de productes visuals que es publiquin.
+
+>**El principi es fonamenta en el seguiment de les següents regles:**
+>
+>- Utilitzar el mateix tipus de gràfic per a la mateixa necessitat. Escollir el tipus de gràfic més adequat per a cada tipus de visualització i mantenir la coherència en tots els productes publicats.
+>- Mantenir una mateixa estructura de pàgina i textos (capçalera, títols, subtítols, missatges i peus de pàgina, així com les llegendes i etiquetes). Les capçaleres de les pàgines interiors dels informes no han de tenir el logotip institucional.
+>- Unificar les mesures i mètriques que es mostren en les visualitzacions. S’ha de mantenir la mateixa definició i denominació quan s’estan mostrant les mateixes mesures.
+>- Utilitzar els mateixos símbols i icones. Fer servir un mateix banc d’estil d’icones per facilitar la comprensió dels usuaris i utilitzar la mateixa simbologia per a les desviacions (+, -, ↑, ↓).
+>- Unificar els escenaris de comparació, per exemple, anys o períodes passats, període actual, comarca, província, país, previsions o pressupost anual, etc.
+>- Unificar la semàntica dels colors que s’utilitzin, per exemple, utilitzant els mateixos colors per identificar els mateixos grups. Utilitzar semàntiques universals o més habituals, com per exemple reservar el vermell/verd per a les desviacions. És millor evitar els colors i símbols semafòrics dins dels números de les taules i reservar-los per destacar desviacions amb fletxes al costat.
+>- Unificar formats dels números i percentatges. Les xifres numèriques s’han de mostrar sempre amb separació dels milers i, si no tenen rellevància, sense decimals o de la forma més arrodonida possible. Només els valors negatius van amb signe o entre parèntesis seguint els principis de la norma ISO-80000-1.
+>- Prescindir dels símbols de divisa i respectar la notació de monedes. No incorporar símbols de divisa. En les taules i en els gràfics, les monedes s’han d’escriure segons l’estàndard ISO 4217 (EUR, USD, GBP, CHF, etc.).
+>- Seguir l’estàndard marcat pel sistema internacional (SI) a l’hora de representar unitats físiques.
+>- Mostrar les dates i la dimensió de temps seguint l’estàndard ISO-8601, YYYY-MM-dd i les agrupacions inferiors a l’any, com trimestre, i any s’han de mostrar de forma uniforme.
+>- Optar per un sistema ISO per codificar països. Si s’utilitzen abreviatures per referir-se a països, s’ha d’utilitzar un sistema ISO 3166-1 alfa 3 de 3 lletres. (ESP, USA, DEU, GBR, etc.). En cas d’utilitzar abreviatures d’altres zones estàndard, sense codi ISO, com per exemple barris o districtes de la ciutat, és convenient aplicar el principi d’uniformitat mantenint la mateixa notació identificativa en els diferents usos.
+>- Mostrar la unitat de mesura en negreta en el títol de la visualització per identificar ràpidament què s’està mostrant en la visualització (milers d’euros, usuaris, etc.).
+
+## 7. Principi d’ús adequat del color ##
+El color és un dels recursos més valuosos amb què es pot comptar en la visualització de dades i que s’ha d’utilitzar de manera adequada per aprofitar el seu potencial i evitar-lo quan no aporta valor o el seu ús sigui contraproduent.
+
+**Les principals regles relatives a la utilització del color són:**
+
+- Utilitzar color per segmentar (separar) grups, categories o sèries de dades. En cap cas s’ha d’utilitzar el color amb una finalitat únicament decorativa. No utilitzar color o escales de color per separar categories que ja quedin correctament identificades.
+
+**Exemple d’utilització de color:** En el gràfic de l’esquerra, l’ús del color és innecessari i genera una distracció. La millor forma de representar les mateixes dades és prescindir dels colors per a cada grup i identificar-los amb cada barra. El que sí que té sentit és utilitzar els colors per identificar grups que segueixen una pauta comuna (clustering), com mostra el gràfic de dispersió de la dreta.
+
+Figura 12. Exemple d’utilització del color
+![Número de solicitudes de acceso a la información](./images/ejemplo_de_utilizacion_de_color.jpg)
+
+- Utilitzar el color amb una finalitat semàntica. Els colors també poden estar associats a una significació i poden utilitzar-se per identificar més ràpidament determinades categories. El criteri de vinculació s’ha de mantenir seguint el principi d’uniformitat.
+
+- Tenir en compte les associacions culturals a l’hora d’assignar colors. Per exemple, la temperatura (blau per al fred i vermell per a la calor), els elements naturals (zona verda, de color verd; aigua, de color blau…) o els colors que representen partits polítics.
+
+- No utilitzar el color com a únic criteri per transmetre informació, sol·licitar una acció o resposta. S’han d’afegir elements textuals, etiquetes de valors, símbols +-, fletxes o deltes per reforçar els codis de color semafòrics de desviacions o no assoliment d’objectius.
+
+- No utilitzar el color per separar un gran nombre de grups o categories, ja que a partir de cinc grups comença a ser difícil distingir-los. A partir dels nou-deu grups, el color no serà un recurs útil per diferenciar grups.
+
+- Ser restrictiu amb les paletes de color. En cas que sigui possible, s’ha de limitar el nombre de colors per no incorporar més de dos-tres diferents, ja que una paleta molt àmplia genera distracció i confusió als usuaris.
+
+- No utilitzar el recurs de degradat de color com l’única forma de separar els valors en mapes heat maps o mapes d’àrees/coropletes, ja que el degradat de color, a diferència de la longitud o l’amplada d’una forma, dificulta quantificar i comparar. Per això, és útil afegir etiquetes amb valors o mini gràfics de pastís. En cas que aquesta solució no sigui possible per la quantitat i mida de les diferents àrees, es recomana quantificar els valors amb escales de color divergents que incorporin etiquetes.
+
+- Separar colors d’una mateixa paleta variant la lluminositat, en lloc de la saturació de color. El canvi de lluminositat ha de ser d’un 10-20% per distingir-se correctament, però si són línies, la variació ha de ser d’un 30-40%, atès que existeix més separació en blanc.
+
+- Emprar colors amb un nivell de saturació mitjà. Els colors saturats només s’han d’utilitzar per destacar petites parts del gràfic. Els colors saturats i condensats dificulten la comprensió de la visualització si s’utilitzen en àrees del gràfic.
+
+- Escollir escales de colors divergents, identificables i valorades. S’han d’utilitzar semàntiques conegudes o amb una transició fàcil de reconèixer per establir els colors dels dos pols de valors divergents. Per exemple, tot i que es mostri la regla de variació associada al color, un heat map que reserva els tons blaus per als valors mínims i el vermell per als màxims serà més fàcil d’identificar que paletes de colors divergents sense una semàntica habitual. Es recomana també mostrar una llegenda amb l’escala de valors per ajudar a quantificar.
+
+- Limitar el vermell i el verd per mostrar desviacions. S’ha d’avaluar si és necessari incorporar-los com a colors de visualització, ja que estan fortament identificats amb una semàntica pròpia de negativitat i positivitat.
 
 
