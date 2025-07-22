@@ -115,23 +115,19 @@ Evitar les columnes trencades (broken bars). Les columnes trencades no aporten i
 
 
 
->**Ejemplo de eje roto:**
+>**Exemple d’eix trencat:**
 >
->Los siguientes gráficos muestran los mismos datos, pero en el gráfico
-con columnas rotas se obtiene una imagen poco exacta de la proporción visual de la diferencia.
+> Els següents gràfics mostren les mateixes dades, però en el gràfic amb columnes trencades s'obté una imatge poc precisa de la proporció visual de la diferència.
+
 Figura 5. Exemple de trencament dels eixos d’un gràfic
 
 ![Exemple de truncament d’eixos](./images/Exemple%20de%20trencament%20dels%20eixos%20d’un%20gràfic.jpg)
 
 - Mostrar de manera exhaustiva la totalitat de les categories. Una visualització en què només aparegui una part de les categories pot portar a pensar que les dades mostrades corresponen a la totalitat del fenomen d’estudi. Per això, és més adequat mostrar els valors de totes les categories, indicant clarament el contingut obert o tancat de cada tram. En cas que algunes categories siguin poc nombroses, es poden agrupar en una categoria residual tipus “altres” o “resta”.
 
->**Ejemplo de categorías no exhaustivas:**
+>**Exemple de categories no exhaustives:**
 >
->Los siguientes gráficos muestran el número
-de visitantes categorizado por grupos de edades. El primer gráfico no es exhaustivo y
-muestra únicamente las tres categorías más numerosas. La suma de estos tramos es de
-500, una cifra inferior a la real. Este dato no corresponde con la totalidad de asistentes,
-tal y como se muestra en el segundo gráfico.
+>Els gràfics següents mostren el nombre de visitants categoritzat per grups d’edat. El primer gràfic no és exhaustiu i mostra únicament les tres categories més nombroses. La suma d’aquests trams és de 500, una xifra inferior a la real. Aquesta dada no correspon amb la totalitat d’assistents, tal com es mostra en el segon gràfic.
 
 Figura 6. Exemple de categories exhaustives (No exhaustiu)
 
@@ -234,7 +230,7 @@ Figura 11. Exemple de mapa de calor d’atenció visual
 
 ## 5. Principis d’objectivitat i compliment ètic i normatiu ##
 
-Estos principios apuestan por unas visualizaciones de datos elaboradas con fidelidad a la realidad, buena fe del mensaje a transmitir, así como una verificación del cumplimiento normativo en los distintos ámbitos que puedan afectar a la visualización de datos.
+Aquests principis aposten per unes visualitzacions de dades elaborades amb fidelitat a la realitat, bona fe en el missatge a transmetre, així com una verificació del compliment normatiu en els diferents àmbits que poden afectar la visualització de dades.
 
 > **Les regles principals són:**
 >
